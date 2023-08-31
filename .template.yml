@@ -2,4 +2,4 @@ name: Spring security
 rating: 5
 imageUrl: https://github.com/msa-ez/topping-spring-security/assets/123912988/eefc3144-340d-4deb-a931-57a460219b67
 templateName: spring-security
-description: Spring security description
+description: Spring-based security framework that facilitates easy integration and management of authentication, authorization, and security functionalities.
