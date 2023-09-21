@@ -4,4 +4,4 @@ imageUrl: https://github.com/msa-ez/topping-spring-security/assets/123912988/eef
 templateName: spring-security
 description: Spring-based security framework that facilitates easy integration and management of authentication, authorization, and security functionalities.
 depends:
-group: Security
+tags: Security
